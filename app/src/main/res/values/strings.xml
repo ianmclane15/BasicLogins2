@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Basic Login</string>
+    <string name="login">Login</string>
+    <string name="create_an_account">Create An Account</string>
+    <string name="password">Password</string>
+    <string name="username">Username</string>
+</resources>
