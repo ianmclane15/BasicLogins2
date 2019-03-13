@@ -48,7 +48,7 @@ public class RestaurantAdapter extends ArrayAdapter<Restaurant> {
         textViewName.setText(currentRestaurant.getName());
 
         //get the right number of $ signs
-        String price = "";
+        String price = "$";
         for (int i = 0; i < currentRestaurant.getPrice(); i++) {
             price += "$";
         }
